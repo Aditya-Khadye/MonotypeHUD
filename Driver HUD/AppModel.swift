@@ -1,8 +1,8 @@
 //
 //  AppModel.swift
-//  Driver HUD
+//  BeamNG HUD
 //
-//  Created by Dev Aditya on 7/23/25.
+//  Created by Dev Aditya on 12/17/25.
 //
 
 import SwiftUI
